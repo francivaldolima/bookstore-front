@@ -1,5 +1,7 @@
 # BookstoreFront
 
+Desenvolvimento de um e-commerce de livros, conectando com o back-end e criando uma API de listagem de produtos.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
 ## Development server
